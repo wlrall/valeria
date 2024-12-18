@@ -1,4 +1,4 @@
-internal class окружность
+internal class Г®ГЄГ°ГіГ¦Г­Г®Г±ГІГј
 {
     static void Main()
     {
